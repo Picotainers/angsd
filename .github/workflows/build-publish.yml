@@ -1,4 +1,4 @@
-name: Build and Publish Distroless angsd
+name: Build and Publish angsd
 
 on:
   push:

@@ -1,5 +1,5 @@
 # angsd
-Small, distroless-when-possible container for `angsd`.
+Small compatibility-focused container for `angsd`.
 
 ## how to use
 ```bash
